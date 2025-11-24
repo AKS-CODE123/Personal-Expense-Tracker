@@ -50,21 +50,21 @@ This project is designed for:
 
 &#9658;Filter Options
 
- &#8226; View by category
+    &#8226; View by category
 
- &#8226; View by date range
+    &#8226; View by date range
 
- &#8226; Statistics Module
+    &#8226; Statistics Module
 
- &#8226; Total spending
+    &#8226; Total spending
 
- &#8226;Average spending
+    &#8226;Average spending
 
- &#8226;Spending per category
+    &#8226;Spending per category
 
- &#8226;Number of transactions per category
+    &#8226;Number of transactions per category
 
- &#8226;Highest spending category
+    &#8226;Highest spending category
 
 Monthly spending summary
 
@@ -73,4 +73,5 @@ Category-wise bar chart using Matplotlib.
 
 Persistent Storage
 All data saved in data/expenses.csv and auto-created if missing.
+
 
