@@ -107,11 +107,13 @@ How to Run Locally
 
 Enter the number corresponding to the desired operation.
 
-Sample CSV Output
-date,category,amount,note
-2025-01-10,Food,220,Lunch
-2025-01-12,Shopping,1500,Clothes
-2025-02-01,Travel,999,Cab
+&#10022;Sample CSV Output : 
+
+   |date        |  category  | amount  |  note |
+   |------------|------------|---------|-------|
+   |2025-01-10  | Food       |220      |Lunch  |
+   |2025-01-12  | Shopping   |1500     |Clothes|
+   |2025-02-01  | Travel     |999      |cab    |
 
 MADE BY:
 
