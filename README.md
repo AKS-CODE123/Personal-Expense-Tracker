@@ -129,3 +129,14 @@ MADE BY:
 &#10022;CSV file is fully compatible with Excel and Google Sheets.
 
 &#10022;This project is suitable for academic submission or portfolio use.
+
+&#10022;Here is a sample screenshot of the program:
+
+<img width="676" height="771" alt="Screenshot 2025-11-25 005606" src="https://github.com/user-attachments/assets/d952384d-91be-4c77-8c4a-f6c3066a6332" />
+
+
+
+
+
+
+<img width="847" height="713" alt="Screenshot 2025-11-25 005534" src="https://github.com/user-attachments/assets/a3128d8c-65ed-48b2-8f83-3ca806db4a0b" />
