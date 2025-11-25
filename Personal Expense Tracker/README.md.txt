@@ -129,3 +129,5 @@ MADE BY:
 &#10022;CSV file is fully compatible with Excel and Google Sheets.
 
 &#10022;This project is suitable for academic submission or portfolio use.
+
+This project was made by using basics of the python language and the course knowledge.
