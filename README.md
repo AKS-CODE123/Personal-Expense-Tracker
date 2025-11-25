@@ -51,7 +51,7 @@ The program runs directly in the terminal and is easy to use for beginners as we
 
    &#8226;Highest spending category
 
-   &#8226;Monthly spending summary
+   &#8226;Monthly  spending summary
 
 &#10148;Visualization
 
