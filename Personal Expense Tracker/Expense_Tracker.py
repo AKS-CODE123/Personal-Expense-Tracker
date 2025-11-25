@@ -63,7 +63,7 @@ def add_expenses(expenses):
 
 def view_expenses_with_index(expenses):
     print("\nExpenses List:")
-    print("-------------------------------------------")
+    print("--------------------------------------------")
     
     for i, exp in enumerate(expenses):
         print(f"{i}. {exp['date']} | {exp['category']} | {exp['amount']} | {exp['note']}")
@@ -258,4 +258,5 @@ def Main():
             print("Invalid choice. Please try again.")
 
 Main()
+
 
