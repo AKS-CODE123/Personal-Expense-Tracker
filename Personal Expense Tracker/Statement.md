@@ -7,7 +7,7 @@
 
 <h2>Scope of the Project:</h2>
 
-  This project focuses on building a local, command-line expense tracker that stores all data permanently in a CSV file. The system provides essential expense-        management features including adding, viewing, filtering, deleting, analyzing, and visualizing expenses.
+  This project focuses on building a local, command-line expense tracker that stores all data permanently in a CSV file. The system provides essential expense-  management features including adding, viewing, filtering, deleting, analyzing, and visualizing expenses.
 
 &#9658;The scope includes:
 
@@ -73,6 +73,7 @@ Category-wise bar chart using Matplotlib.
 
 Persistent Storage
 All data saved in data/expenses.csv and auto-created if missing.
+
 
 
 
