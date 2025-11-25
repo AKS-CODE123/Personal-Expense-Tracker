@@ -7,7 +7,7 @@ Data is stored permanently in a CSV file, allowing the application to function a
 
 <h1>Purpose:</h1>
 
-The purpose of this project is to provide a simple, local, and efficient expense-management system that allows users to:
+The purpose of this  project is to provide a simple, local, and efficient expense-management system that allows users to:
 
    &#8226; Maintain a record of daily transactions
 
