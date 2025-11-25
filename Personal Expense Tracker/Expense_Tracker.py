@@ -45,7 +45,7 @@ def add_expenses(expenses):
         except:
             print("Invalid date. Try again.")
 
-    category = input("Enter category: (e.g.; {Food,Shopping,Date,Party,etc})").strip()
+    category = input("Enter category: (e.g.; {Food,Shopping,Date,Party,others,etc})").strip()
 
     while True:
         try:
@@ -258,3 +258,4 @@ def Main():
             print("Invalid choice. Please try again.")
 
 Main()
+
