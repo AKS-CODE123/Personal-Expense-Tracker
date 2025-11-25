@@ -39,7 +39,7 @@ def save_expenses(expenses):
 def add_expenses(expenses):
     while True:
         try:
-            date = input("Enter date (YYYY-MM-DD): ")
+            date = input(" Enter date (YYYY-MM-DD): ")
             datetime.strptime(date, "%Y-%m-%d")
             break
         except:
@@ -256,4 +256,5 @@ def Main():
 
         else:
             print("Invalid choice. Please try again.")
+
 Main()
